@@ -1,7 +1,7 @@
 # Setup
 title:               Lucas Flanagan
 tagline:             'Student and Cybersecurity enthusiast.'
-description:         'A minimalist portfolio showcasing cybersecurity write-ups and software projects.'
+description:         'A minimalist website showcasing cybersecurity write-ups and software projects.'
 url:                 https://lucas-flanagan.github.io
 baseurl:             '/'
 paginate:            1
