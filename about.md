@@ -4,17 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Welcome to my personal website. Here you will find a minimalist portfolio of various cybersecurity write-ups and software projects.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## My Story
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+I grew up a rural area of central Maine where I spent much of my time snowboarding, camping, playing soccer, and messing around on my computer. 
+After high school, I've had the privledge to study at Boston College, where I'm currently pursuing a BS in Computer Science. I'm a nationally certified EMT-B
+and volunteer for Boston College's student-run EMS service.
 
 ## Setup
 
