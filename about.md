@@ -11,16 +11,23 @@ Welcome to my personal website. Here you will find a minimalist portfolio of var
 
 I grew up a rural area of central Maine where I spent much of my time snowboarding, camping, playing soccer, and messing around on my computer. 
 After high school, I've had the privledge to study at Boston College, where I'm currently pursuing a BS in Computer Science. I'm a nationally certified EMT-B
-and volunteer for Boston College's student-run EMS service.
+and volunteer for Boston College's student-run EMS service, as well as an Army ROTC cadet.
 
-## Setup
+## Experience
 
-Some fun facts about the setup of this project include:
+Languages and cybersecurity topics that I have experience with include:
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+* Java
+* Python
+* HTML/CSS
+* OWASP Top 10
+* Penetration Testing
+* Webapp Vulnerability Scanning
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Contact
+
+Have questions, suggestions, or otherwise would like to reach me?
+
+Email me at <p class="message">lucasflanagan.is@gmail.com</p>
 
 Thanks for reading!
