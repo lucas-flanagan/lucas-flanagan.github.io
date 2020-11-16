@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Temporary Queues/Stacks within a Class
+
 Author: Lucas Flanagan <br>
 Date: 11/01/2020 <br>
 Description: <br>
