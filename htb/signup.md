@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Signing up
+## Creating an Account
 
 If you're new to HTB and have recently attempted to create an account, you've likely come to the realization that the website will test your knowledge and willingness to learn at every step. As such, you're challenged to hack your way into making an account.
 
