@@ -4,9 +4,9 @@ layout: default
 
 ## Binary Tree Traversal
 
-Author: Lucas Flanagan, lucasflanagan.is@gmail.com
-Date: 11/12/2020
-Description:
+Author: Lucas Flanagan, lucasflanagan.is@gmail.com <br>
+Date: 11/12/2020 <br>
+Description: <br>
 This is the java implementation of the binary tree described in a common coding exercise.
 Search method technique: Traverse through the tree while adding nodes to a temporary queue, then remove nodes and exit if a node is located that has a name matching the keyword.
 
