@@ -30,23 +30,23 @@ I had to google 'obfuscated'. If you dont already know, it means unintelligible.
 
 Lets copy paste the code into a javascript beautifier so its easier to read.
 
-<p class="message">
-//This javascript code looks strange...is it obfuscated???
 
-function makeInviteCode() {
-    $.ajax({
-        type: "POST",
-        dataType: "json",
-        url: '/api/invite/how/to/generate',
-        success: function(a) {
-            console.log(a)
-        },
-        error: function(a) {
-            console.log(a)
-        }
-    })
-}
-</p>
+    //This javascript code looks strange...is it obfuscated???
+
+    function makeInviteCode() {
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: '/api/invite/how/to/generate',
+            success: function(a) {
+                console.log(a)
+            },
+            error: function(a) {
+                console.log(a)
+            }
+        })
+    }
+
 Beautiful indeed.
 
 As you can see, there's a javascript function called makeInviteCode. Im going to take a wild guess and say that we need to call that function somehow so it can make an invite code for us.
