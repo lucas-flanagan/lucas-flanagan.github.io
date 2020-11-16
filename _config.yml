@@ -4,7 +4,7 @@ tagline:             'Student and Cybersecurity enthusiast.'
 description:         'A minimalist portfolio showcasing cybersecurity write-ups and software projects.'
 url:                 http://lucas-flanagan.github.io
 baseurl:             '/'
-paginate:            5
+paginate:            1
 paginate_path:       "/blog/page:num/"
 permalink:           pretty
 
