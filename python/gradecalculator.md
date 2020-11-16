@@ -4,9 +4,9 @@ layout: default
 
 ## Grade Calculator
 
-      # Author: Lucas Flanagan
-      # Assignment: Assignment #2, Grade Transcript
-      # Description: Calculating grades and producing a transcript based on user input
+Author: Lucas Flanagan
+Date: Nov 2019
+Description: Calculates final grades and produces a transcript based on user input
 
       def one_class():
           finalscore1 = 0
@@ -254,3 +254,7 @@ layout: default
 
       else:
           print("Invalid number of courses. (Maximum = 2)")
+          
+Output:
+
+<img src="gradecalc.png">
