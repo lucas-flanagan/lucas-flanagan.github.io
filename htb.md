@@ -21,12 +21,11 @@ There's a subtle hint here in the 'console section' that states the following:
 <p class="message">This page loads an interesting javascript file. See if you can find it :)</p>
 
 Alright, so lets check out the website's javascript files. 
-
-<img src="/images/js.png">
+<img src="/images/jsfile.png">
 
 Here's a link to one of the JS source files from the source HTML. Lets open the link in a new tab to examine the code.
 
-<img src="/images/jsfile.png">
+<img src="/images/js.png">
 
 I had to google 'obfuscated'. If you dont already know, it means unintelligible. 
 
