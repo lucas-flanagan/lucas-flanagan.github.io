@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<p class="message">
-Welcome to my personal website. Here you will find a minimalist portfolio of various cybersecurity write-ups and software projects.
-</p>
+
+
+
 
 ## My Story
 
@@ -32,5 +32,3 @@ Email me at
 <p class="message">
 lucasflanagan.is@gmail.com
 </p>
-
-Thanks for reading!
