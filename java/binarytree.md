@@ -121,4 +121,4 @@ The Code:
 
 The Output:
 
-<img src"/images/binarytreeoutput.png">
+<img src="/images/binarytreeoutput.png">
