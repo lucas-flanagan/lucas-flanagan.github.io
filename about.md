@@ -28,6 +28,9 @@ Languages and cybersecurity topics that I have experience with include:
 
 Have questions, suggestions, or otherwise would like to reach me?
 
-Email me at <p class="message">lucasflanagan.is@gmail.com</p>
+Email me at 
+<p class="message">
+lucasflanagan.is@gmail.com
+</p>
 
 Thanks for reading!
