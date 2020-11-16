@@ -3,8 +3,7 @@ layout: page
 title: Python
 ---
 
-<html>
- <ol">
+<ol>
   <li><a href="/python/gradecalculator">Grade Calculator</a></li>
 </ol>
-</html>
+
