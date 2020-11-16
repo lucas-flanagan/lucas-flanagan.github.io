@@ -54,7 +54,7 @@ As you can see, there's a javascript function called makeInviteCode. Im going to
 
 JS functions can be called in the console area where we found that first clue. Lets do that and see what happens.
 
-<img src="/images/makeinvitecode">
+<img src="/images/makeinvitecode.png">
 
 Nice. Looks like we have some sort of encrypted message. They gave us the encryption type which makes it easier.
 
