@@ -20,9 +20,9 @@ Languages and cybersecurity topics that I have experience with include:
 * Java
 * Python
 * HTML/CSS
-* OWASP Top 10
 * Penetration Testing
 * Webapp Vulnerability Scanning
+* Basic Networking
 
 ## Contact
 
