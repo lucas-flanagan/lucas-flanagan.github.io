@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Binary Tree Traversal
-<p class="message">
+<div class="message">
   
 // Author: Lucas Flanagan, lucasflanagan.is@gmail.com
 // Date: 11/12/2020
@@ -111,4 +111,4 @@ public class BinaryTree {
 
 } //BinaryTree
 
-</p>
+</div>
