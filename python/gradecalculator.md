@@ -257,4 +257,4 @@ Description: Calculates final grades and produces a transcript based on user inp
           
 Output:
 
-<img src="gradecalc.png">
+<img src="/images/gradecalc.png">
