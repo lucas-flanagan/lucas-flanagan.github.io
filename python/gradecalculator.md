@@ -4,8 +4,8 @@ layout: default
 
 ## Grade Calculator
 
-Author: Lucas Flanagan
-Date: Nov 2019
+Author: Lucas Flanagan <br>
+Date: Nov 2019 <br>
 Description: Calculates final grades and produces a transcript based on user input
 
       def one_class():
