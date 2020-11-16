@@ -9,12 +9,12 @@ If you're new to HTB and have recently attempted to create an account, you've li
 
 Let the fun begin.
 
-<img href="/images/createacc.png">
+<img src="/images/createacc.png">
 
 Looks like we're searching for some sort of code that will allow us to sign up.
 A good first step would be to check out the source code.
 
-<img href="/images/firsthint.png">
+<img src="/images/firsthint.png">
 
 I right clicked and selected the inspector tool.
 There's a subtle hint here in the 'console section' that states the following:
@@ -22,11 +22,11 @@ There's a subtle hint here in the 'console section' that states the following:
 
 Alright, so lets check out the website's javascript files. 
 
-<img href="/images/js.png">
+<img src="/images/js.png">
 
 Here's a link to one of the JS source files from the source HTML. Lets open the link in a new tab to examine the code.
 
-<img href="/images/jsfile.png">
+<img src="/images/jsfile.png">
 
 I had to google 'obfuscated'. If you dont already know, it means unintelligible. 
 
@@ -55,7 +55,7 @@ As you can see, there's a javascript function called makeInviteCode. Im going to
 
 JS functions can be called in the console area where we found that first clue. Lets do that and see what happens.
 
-<img href="/images/makeinvitecode">
+<img src="/images/makeinvitecode">
 
 Nice. Looks like we have some sort of encrypted message. They gave us the encryption type which makes it easier.
 
@@ -86,7 +86,7 @@ Looks like I got a data output with a "code". Initially I tried to use this as t
 
 I put the data into an online "cipher identifier" to try to figure out how it has been encoded
 
-<img href="/images/base64.png">
+<img src="/images/base64.png">
 
 
 Base64 it is. Lets punch it into a base64 decoder.
