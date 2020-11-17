@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Inherent Danger of the Internet
+title: Internet: The Good, the Bad, and the Ugly
 ---
 
 There are few things we don’t trust in the hands of technology. We offer it our bank account information, social security numbers, and our exact location at all times among an almost ever-evolving list of private information. 
