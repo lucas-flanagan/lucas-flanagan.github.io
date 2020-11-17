@@ -21,5 +21,7 @@ We shouldn’t constantly be scared about data breaches or intimidated by surfin
 
 The freedom associated with the internet is what makes it so valuable. Anyone can contribute, and vast networks of connections can be developed. Danger seems to simply be a byproduct of these privileges. 
 
-In the words of Jonathan Zittrain:
+In the words of Jonathan Zittrain: <br>
+<p class="message">
 “We face paired dangers. The first is that our networks are successfully attacked. The second is that our fear of attack will cause us to destroy what makes the Internet special.”
+</p>
