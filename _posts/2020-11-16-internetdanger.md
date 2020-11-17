@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internet: The Good, the Bad, and the Ugly
+title: Internet: The Good, Bad, & The Ugly
 ---
 
 There are few things we don’t trust in the hands of technology. We offer it our bank account information, social security numbers, and our exact location at all times among an almost ever-evolving list of private information. 
