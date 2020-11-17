@@ -66,8 +66,6 @@ This is the java implementation of the linked list data structure. Contains many
               return result.toString();   //return result + "[null]";
           }
 
-          // ------------------------  Methods that you have to write ------------------------
-
           public int size() {
               Node cycle = first;
               int counter = 0;
