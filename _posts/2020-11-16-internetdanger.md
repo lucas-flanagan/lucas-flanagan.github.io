@@ -17,7 +17,7 @@ The users of the internet operate under the blanket assumption that it has the b
 
 A tech-savvy person such as yourself surely mitigates the risk associated with using the internet. Perhaps you’re connected with multiple chained VPNs, or you test programs in a guest operating system before using them in your own.
 
-We shouldn’t constantly be scared about data breaches or intimidated by surfing around the web. I’m simply proposing that we standardize a slight mistrust of the internet and its services. That we show others how to protect their information, and that each of us does not contribute to the misuse of online data.
+We shouldn’t constantly be scared about data breaches or intimidated by surfing around the web. I simply suggest that we standardize a slight mistrust of the internet and its services. That we show others how to protect their information, and that each of us does not contribute to the misuse of online data.
 
 The freedom associated with the internet is what makes it so valuable. Anyone can contribute, and vast networks of connections can be developed. Danger seems to simply be a byproduct of these privileges. 
 
