@@ -26,7 +26,7 @@ Here's a link to one of the JS source files from the source HTML. Lets open the 
 
 <img src="/images/js.png">
 
-I had to google 'obfuscated'. If you dont already know, it means unintelligible. 
+Obfuscated = unintelligible. 
 
 Lets copy paste the code into a javascript beautifier so its easier to read.
 
