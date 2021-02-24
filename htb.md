@@ -1,9 +1,9 @@
 ---
 layout: page
-title: HackTheBox Write-Ups
+title: Write-Ups
 ---
 
 <ol class="htbwriteups">
-  <li><a href="/htb/signup">Creating an Account</a></li>
+  <li><a href="/writeups/htb/signup">HackTheBox: Create An Account</a></li>
 </ol>
 
